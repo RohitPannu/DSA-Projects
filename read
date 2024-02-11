@@ -1,0 +1,73 @@
+
+# Name: Rohit Kumar
+# CMS ID: 023-22-0084
+# Group project partner: Rohit Kumar and Darshan Chelani
+# Project: TO DO APPLICATION
+
+
+
+
+
+
+# TO DO APPLICATION: Efficient Task Management
+
+## Introduction
+
+Welcome to to do application, a powerful and user-friendly To-Do application designed to streamline your task management experience. to do provides a range of functionalities to help you organize, prioritize, and track your tasks efficiently.
+
+## Table of Contents
+
+- Functionalities
+- Data Structure and Algorithm
+- Getting Started
+- Usage
+- Classes and Methods
+
+## Functionalities
+
+TaskForge comes equipped with the following features:
+
+1. **Add Task:**
+   - Add tasks with a name, priority, and initial completion status.
+
+2. **Remove Task:**
+   - Remove tasks by specifying the task name.
+
+3. **Mark Task as Completed:**
+   - Mark tasks as completed to visualize your progress.
+
+4. **Organize by Number Wise:**
+   - View tasks in their current order.
+
+5. **Prioritize Tasks:**
+   - Organize tasks based on priority using a linked list and a sorting algorithm.
+
+6. **Search Task:**
+   - Search for a specific task by its name.
+
+7. **Progress Tracking:**
+   - Track overall progress with insights into total tasks, completed tasks, and progress percentage.
+
+## Data Structure and Algorithm
+
+TaskForge leverages a linked list data structure for efficient task management. Task prioritization is achieved through a simple sorting algorithm like Bubble Sort, balancing simplicity and efficiency for small datasets.
+
+
+## Usage
+
+- Run the application and follow the on-screen instructions to utilize the various functionalities.
+
+## Classes and Methods
+
+1. **Task Class:**
+   - Represents individual tasks with attributes like name, completion status, and priority.
+
+2. **Node Class:**
+   - Represents a node in the linked list, containing a task and a reference to the next node.
+
+3. **ToDoList Class:**
+   - Manages the linked list of tasks, providing essential methods for task management.
+
+4. **ToDoApp Class:**
+   - Serves as the user interface, facilitating interaction through the console.
+
